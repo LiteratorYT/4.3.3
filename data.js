@@ -1,4 +1,8 @@
 export const context = {
+    array: ['a', 'b', 'c'],
+  };
+  
+export const context = {
     languages: [
       {
         name: 'HTML',
@@ -11,4 +15,3 @@ export const context = {
       },
     ],
   };
-  
