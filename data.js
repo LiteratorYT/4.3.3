@@ -1,7 +1,4 @@
 export const context = {
-    array: ['a', 'b', 'c'],
-  };
-  export const context = {
     languages: [
       {
         name: 'HTML',
@@ -11,42 +8,6 @@ export const context = {
       },
       {
         name: 'JavaScript',
-      },
-    ],
-  };
-  export const context = {
-    languages: [
-      {
-        name: 'HTML',
-        modern: true,
-      },
-      {
-        name: 'CSS',
-        modern: true,
-      },
-      {
-        name: 'JavaScript',
-        modern: true,
-      },
-    ],
-  };
-  export const context = {
-    languages: [
-      {
-        name: 'HTML',
-        modern: true,
-      },
-      {
-        name: 'CSS',
-        modern: true,
-      },
-      {
-        name: 'JavaScript',
-        modern: true,
-      },
-      {
-        name: 'COBOL',
-        modern: false,
       },
     ],
   };
